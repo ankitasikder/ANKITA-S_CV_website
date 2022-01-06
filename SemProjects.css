@@ -1,0 +1,45 @@
+body{
+    background-image: url(semprojbg.png);
+    background-size: 100%;
+    background-repeat: repeat;
+}
+h2{
+    margin-left: 30%;
+     margin-right: 30%;
+     margin-top: 20px;
+     display: inline;
+     color: rgb(7, 243, 7);
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 40px;
+     font-family: Arial, Helvetica, sans-serif;
+    }
+ul{
+    margin-top: 35px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    font-size: 40px;
+    color:rgba(255, 255, 255, 0.979);
+    font-style: bold;
+  }
+  /*Created by ANKITA SIKDER
+email:ankita.sikder14@gmail.com
+*/
+  .class{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+  }
+  .class:hover{
+      color: rgb(22, 242, 22);
+  }
+  .homepage{
+    color: rgb(243, 240, 199);
+    font-size: 200%;
+    
+    width: 40%;
+    margin-left: 29%;
+  }
+  .homepage:hover{
+      color: rgb(10, 243, 231);
+  }
+ 

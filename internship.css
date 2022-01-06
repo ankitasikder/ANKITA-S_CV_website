@@ -1,0 +1,45 @@
+body{
+    background-image: url(intern.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+}
+h1
+{
+   margin-left: 35%;
+   margin-right: 35%;
+   margin-top: 10%;
+   display: inline;
+   color: rgb(241, 247, 244);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 50px;
+  font-weight: bold;
+}
+/*Created by ANKITA SIKDER
+email:ankita.sikder14@gmail.com
+*/
+ul{
+    margin-top: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    font-size: 30px;
+    color:rgba(255, 255, 255, 0.979);
+    font-style: bold;
+  }
+  .class{
+    color: rgba(253, 252, 252, 0.979);
+    font-size: 40px;
+  }
+  .class:hover{
+      color: rgb(178, 94, 226);
+  }
+  .homepage{
+    color: rgb(228, 213, 7);
+    font-size: 200%;
+    margin-top: 0%;
+    width: 40%;
+    margin-left: 29%;
+  }
+  .homepage:hover{
+      color: rgb(144, 78, 225);
+  }
