@@ -53,7 +53,7 @@
   
 <a href="a6.png"><img src="a6.png" width="900" height= "300"></a>
   
-<a href="a7.png"><img src="a7.png" width="900" height= "300"></a> 
+<a href="s7.png"><img src="s7.png" width="900" height= "300"></a> 
 </div>
 
 
