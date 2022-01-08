@@ -41,18 +41,19 @@
 
 <div align="center">
      
-<a href="b1.PNG"><img src="b1.PNG" width="900" height= "300"></a> 
+<a href="a1.png"><img src="a1.png" width="900" height= "300"></a> 
 
-<a href="b2.PNG"><img src="b2.PNG" width="900" height= "300"></a>
-  
-<a href="b2.PNG"><img src="b2.PNG" width="900" height= "300"></a>
-  
-<a href="b2.PNG"><img src="b2.PNG" width="900" height= "300"></a>
-  
-<a href="b2.PNG"><img src="b2.PNG" width="900" height= "300"></a>
-  
-<a href="b2.PNG"><img src="b2.PNG" width="900" height= "300"></a>
+<a href="a2.png"><img src="a2.png" width="900" height= "300"></a> 
 
+<a href="a3.png"><img src="a3.png" width="900" height= "300"></a> 
+  
+<a href="a4.png"><img src="a4.png" width="900" height= "300"></a> 
+  
+<a href="a5.png"><img src="a5.png" width="900" height= "300"></a> 
+  
+<a href="a6.png"><img src="a6.png" width="900" height= "300"></a>
+  
+<a href="a7.png"><img src="a7.png" width="900" height= "300"></a> 
 </div>
 
 
