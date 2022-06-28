@@ -1,6 +1,6 @@
 body{
-    background-image: url(edu.jpg);
-    background-size: 100%;
+    background-image: url(other.jpg);
+    background-size: 120%;
     background-repeat: repeat;
 }
 h1
@@ -8,7 +8,7 @@ h1
    margin-left: 20%;
    margin-right: 20%;
    display: inline;
-   color: rgb(8, 4, 59);
+   color: rgb(45, 4, 95);
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 50px;
   font-weight: bold;
@@ -22,15 +22,15 @@ ul{
     margin-right: 10%;
     padding: 20px;
     font-size: 30px;
-    color:rgba(235, 65, 8, 0.979);
+    color:rgba(0, 0, 0, 0.979);
     font-style: bold;
   }
   .class{
-    color: rgb(240, 7, 7);
+    color: rgb(0, 0, 0);
     font-size: 40px;
   }
   .class:hover{
-      color: rgb(239, 18, 147);
+      color: rgb(36, 18, 239);
   }
   .homepage{
     color: rgb(3, 3, 234);
@@ -40,5 +40,5 @@ ul{
     margin-left: 29%;
   }
   .homepage:hover{
-      color: rgb(8, 122, 42);
+      color: rgb(0, 0, 0);
   }

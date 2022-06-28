@@ -1,6 +1,6 @@
 body{
     background-image: url(proj.jpg);
-    background-size: 100%;
+    background-size: 120%;
     background-repeat: repeat;
 }
 h2{
@@ -32,10 +32,28 @@ email:ankita.sikder14@gmail.com
   .class:hover{
       color: rgb(21, 14, 226);
   }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    float: left;
+  }
+  .column {
+    flex: 70%;
+    padding: 0 10px;
+  }
+  .column img {
+    margin-top: 30px;
+    margin-left: 25px;
+    
+    border-radius: 20px;
+  
+  }
+
   .homepage{
     color: rgb(3, 9, 82);
     font-size: 200%;
-    
+    margin-top: 50px;
     width: 40%;
     margin-left: 29%;
   }

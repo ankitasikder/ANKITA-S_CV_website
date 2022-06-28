@@ -13,7 +13,9 @@ h1
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 50px;
   font-weight: bold;
+  
 }
+
 /*Created by ANKITA SIKDER
 email:ankita.sikder14@gmail.com
 */
@@ -26,6 +28,7 @@ ul{
     color:rgba(255, 255, 255, 0.979);
     font-style: bold;
   }
+
   .class{
     color: rgba(253, 252, 252, 0.979);
     font-size: 40px;

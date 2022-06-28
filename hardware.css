@@ -1,6 +1,6 @@
 body{
     background-image: url(hard.jpg);
-    background-size: 100%;
+    background-size: 115%;
     background-repeat: repeat;
 }
 h1
@@ -32,6 +32,23 @@ ul{
   }
   .class:hover{
       color: rgb(1, 1, 3);
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    float: left;
+  }
+  .column {
+    flex: 70%;
+    padding: 0 10px;
+  }
+  .column img {
+    margin-top: 30px;
+    margin-left: 55px;
+    
+    border-radius: 20px;
+  
   }
   .homepage{
     color: rgb(0, 0, 0);

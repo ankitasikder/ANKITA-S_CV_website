@@ -1,9 +1,9 @@
 body{
     background-image: url(hob.jpg);
-    background-size: 100%;
+    background-size: 125%;
     background-repeat: repeat;
 }
-h1
+/* h1
 {
    margin-left: 35%;
    margin-right: 35%;
@@ -13,7 +13,53 @@ h1
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 50px;
   font-weight: bold;
-}
+} */
+h1{
+  margin-left: 35%;
+   margin-right: 35%;
+   margin-top: 10%;
+   display: inline;
+   color: rgb(255, 255, 255);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 50px;
+  font-weight: bold;
+  -webkit-animation: colorchange 20s infinite alternate;
+  }
+  @-webkit-keyframes colorchange {
+  0% {
+    color: rgb(8, 8, 223);
+  }
+  10% {
+    color: #4a61e4;
+  }
+  20% {
+    color:rgb(216, 54, 5);
+  }
+  30% {
+    color: rgb(194, 131, 108);
+  }
+  40% {
+    color: red;
+  }
+  50% {
+    color: #0623c5;
+  }
+  60% {
+    color: rgb(29, 105, 177);
+  }
+  70% {
+    color: #e90404;
+  }
+  80% {
+    color: red;
+  }
+  90% {
+    color: #3718be;
+  }
+  100% {
+    color: blue;
+  }
+  }  
 /*Created by ANKITA SIKDER
 email:ankita.sikder14@gmail.com
 */
@@ -33,6 +79,41 @@ ul{
   .class:hover{
       color: rgb(242, 244, 250);
   }
+  .row{
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 0 80px;
+}
+.column{
+    flex: 50%;
+    padding: 0 30px;
+    display: flex;
+}
+.column img{
+    border-radius: 20px;
+    size: 50px;
+    margin-top: 0px;
+    
+    
+}
+  figure {
+    margin-top: 20px;
+    box-shadow: 0 45px 65px 0 rgba(0, 0, 0, 0.7), 0 45px 65px 0 rgba(0, 0, 0, 0.7);
+}
+figure img {
+    width: 90%;
+    height: 90%;
+}
+figure figcaption {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(37, 3, 255);
+    
+}
+figure:hover {
+    box-shadow: 0 54px 48px 0 rgba(0, 0, 0, 0.2),
+      0 46px 60px 0 rgba(0, 0, 0, 0.19);
+}
   .homepage{
     color: rgb(9, 9, 250);
     font-size: 200%;
@@ -41,5 +122,5 @@ ul{
     margin-left: 29%;
   }
   .homepage:hover{
-      color: rgba(10, 243, 80, 0.937);
+      color: rgba(243, 10, 107, 0.937);
   }
