@@ -1,5 +1,5 @@
 body{
-    background-image: url(intern.jpg);
+    background-image: url(intern.png);
     background-size: 100%;
     background-repeat: repeat;
 }
@@ -9,7 +9,7 @@ h1
    margin-right: 35%;
    margin-top: 10%;
    display: inline;
-   color: rgb(241, 247, 244);
+   color: rgb(0, 0, 0);
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 50px;
   font-weight: bold;
@@ -31,15 +31,15 @@ ul{
     font-size: 40px;
   }
   .class:hover{
-      color: rgb(178, 94, 226);
+      color: rgb(225, 236, 152);
   }
   .homepage{
-    color: rgb(228, 213, 7);
+    color: rgb(0, 0, 0);
     font-size: 200%;
     margin-top: 0%;
     width: 40%;
     margin-left: 29%;
   }
   .homepage:hover{
-      color: rgb(144, 78, 225);
+      color: rgb(252, 252, 252);
   }

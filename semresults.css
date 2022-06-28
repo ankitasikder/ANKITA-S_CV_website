@@ -1,5 +1,5 @@
 body{
-    background-image: url(proj.jpg);
+    background-image: url(result.jpg);
     background-size: 100%;
     background-repeat: repeat;
 }
@@ -8,38 +8,38 @@ h2{
      margin-right: 30%;
      margin-top: 20px;
      display: inline;
-     color: rgb(5, 30, 226);
+     color: rgb(0, 0, 0);
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      font-size: 40px;
      font-family: Arial, Helvetica, sans-serif;
     }
 ul{
     margin-top: 35px;
-    margin-left: 25%;
+    margin-left: 42.5%;
     margin-right: 25%;
     padding: 20px;
     font-size: 40px;
-    color:rgba(12, 9, 9, 0.979);
+    color:rgba(0, 0, 0, 0.979);
     font-style: bold;
   }
   /*Created by ANKITA SIKDER
 email:ankita.sikder14@gmail.com
 */
   .class{
-    color: rgb(10, 6, 6);
+    color: rgb(0, 0, 0);
     font-size: 40px;
   }
   .class:hover{
-      color: rgb(21, 14, 226);
+      color: rgb(255, 255, 255);
   }
   .homepage{
-    color: rgb(3, 9, 82);
+    color: rgb(0, 0, 0);
     font-size: 200%;
     
     width: 40%;
     margin-left: 29%;
   }
   .homepage:hover{
-      color: rgb(17, 20, 223);
+      color: rgb(255, 255, 255);
   }
  

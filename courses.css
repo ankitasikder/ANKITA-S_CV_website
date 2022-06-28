@@ -1,5 +1,5 @@
 body{
-    background-image: url(coursesbg.png);
+    background-image: url(course.jpg);
     background-size: 100%;
     background-repeat: repeat;
 }
@@ -9,7 +9,7 @@ h1
    margin-right: 35%;
    margin-top: 10%;
    display: inline;
-   color: rgb(83, 255, 4);
+   color: rgb(4, 21, 255);
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-size: 50px;
   font-weight: bold;
@@ -23,23 +23,23 @@ ul{
     margin-right: 10%;
     padding: 20px;
     font-size: 30px;
-    color:rgba(255, 255, 255, 0.979);
+    color:rgba(24, 1, 1, 0.979);
     font-style: bold;
   }
   .class{
-    color: rgb(255, 255, 255);
+    color: rgb(26, 1, 1);
     font-size: 40px;
   }
   .class:hover{
-      color: rgb(22, 242, 22);
+      color: rgb(73, 9, 212);
   }
   .homepage{
-    color: rgb(243, 240, 199);
+    color: rgb(8, 23, 1);
     font-size: 200%;
     margin-top: 0%;
     width: 40%;
     margin-left: 29%;
   }
   .homepage:hover{
-      color: rgb(10, 243, 231);
+      color: rgb(11, 241, 7);
   }
