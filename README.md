@@ -30,24 +30,6 @@ I have made this website to make my CV Website. As it shows all my works so I ca
   
 </div>
      
-## Some Screenshots of this project :point_down:
 
-<div align="center">
-     
-<a href="a1.png"><img src="a1.png" width="900" height= "300"></a> 
-
-<a href="a2.png"><img src="a2.png" width="900" height= "300"></a> 
-
-<a href="a3.png"><img src="a3.png" width="900" height= "300"></a> 
-  
-<a href="a4.png"><img src="a4.png" width="900" height= "300"></a> 
-  
-<a href="a5.png"><img src="a5.png" width="900" height= "300"></a> 
-  
-<a href="a6.png"><img src="a6.png" width="900" height= "300"></a>
-  
-<a href="s7.png"><img src="s7.png" width="900" height= "300"></a> 
-  
-</div>
 
 
